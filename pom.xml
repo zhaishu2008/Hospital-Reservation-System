@@ -95,7 +95,7 @@
         <artifactId>appengine-maven-plugin</artifactId>
         <version>1.9.65</version>
         <configuration>
-          <appId>your-app-id</appId> <!-- Override appengine-web.xml <project> -->
+          <appId>premium-origin-217008</appId> <!-- Override appengine-web.xml <project> -->
           <version>1</version>
           <fullScanSeconds>1</fullScanSeconds>
           <retainUploadDir>true</retainUploadDir>
